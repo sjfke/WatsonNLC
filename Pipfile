@@ -27,7 +27,7 @@ requests = {version="*"}
 six = {version="*"}
 urllib3 = {version = ">=1.24.2"}
 watson-developer-cloud = {version="*"}
-werkzeug = {version="*"}
+werkzeug = {version= ">=0.15.3"}
 
 [requires]
-python_version = "3.7"
+python_version = ">=python 3.7"
