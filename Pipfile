@@ -11,13 +11,13 @@ certifi = {version="*"}
 cffi = {version="*"}
 chardet = {version="*"}
 click = {version="*"}
-cryptography = {version="*"}
+cryptography = {version=">=3.2"}
 enum34 = {version="*"}
 flask = {version=">=1.1.1"}
 idna = {version="*"}
 ipaddress = {version="*"}
 itsdangerous = {version="*"}
-jinja2 = {version="*"}
+jinja2 = {version=">=2.11.3"}
 markupsafe = {version="*"}
 pycparser = {version="*"}
 pyopenssl = {version="*"}
@@ -25,9 +25,9 @@ pysolr = {version="*"}
 python-dateutil = {version="*"}
 requests = {version="*"}
 six = {version="*"}
-urllib3 = {version = ">=1.24.2"}
+urllib3 = {version = ">=1.25.9"}
 watson-developer-cloud = {version="*"}
 werkzeug = {version= ">=0.15.3"}
 
 [requires]
-python_version = ">=python 3.7"
+python_version = "python 3.10.7"
