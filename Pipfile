@@ -28,6 +28,3 @@ six = {version="*"}
 urllib3 = {version = ">=1.25.9"}
 watson-developer-cloud = {version="*"}
 werkzeug = {version= ">=0.15.3"}
-
-[requires]
-python_version = "python 3.10.7"
