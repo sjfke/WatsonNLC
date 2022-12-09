@@ -7,7 +7,7 @@
 
 -i https://pypi.org/simple
 asn1crypto==1.5.1
-certifi==2022.9.24
+certifi==2022.12.7
 cffi==1.15.1
 chardet==5.0.0
 charset-normalizer==2.1.1; python_version >= '3.6'
